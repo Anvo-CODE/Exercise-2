@@ -10,7 +10,6 @@ namespace Remove_Character_by_Index
             string chữ = Console.ReadLine();
             Console.WriteLine("nhập kí tự muốn xóa: ");
             string a = Console.ReadLine();
-          if
             int b = chữ.IndexOf(a);
             string c = chữ.Remove(b, 1);
             Console.WriteLine($"kết quả sau khi xóa kí tự: {c}");
