@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EXE2/Average of Four Numbers.csproj" />
+  <Project Path="Print Age Message/Print Age Message.csproj" Id="06d28748-3be3-417c-be02-7128fb0b5ca9" />
+  <Project Path="Rectangle Pattern with Number/Rectangle Pattern with Number.csproj" Id="f64bcf48-b733-4c34-a639-8ce293c4d195" />
+  <Project Path="Remove Character by Index/Remove Character by Index.csproj" Id="c187703d-61c2-4b62-bca9-6e1d626e632d" />
+  <Project Path="Repeat Number in Rows/Repeat Number in Rows.csproj" Id="c037c141-6da1-4754-b87a-5cc3759244d4" />
+  <Project Path="Specified Formula with Three Numbers/Specified Formula with Three Numbers.csproj" />
+</Solution>
