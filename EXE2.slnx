@@ -5,11 +5,19 @@
     <Project Path="Check for 20 or Sum Equals 20/Check for 20 or Sum Equals 20.csproj" Id="7f874b7c-8698-4fdb-af88-532c4712e617" />
     <Project Path="Check Positive and Negative Pair/Check Positive and Negative Pair.csproj" Id="38defc3b-fd50-4ca4-a32c-409d9f9f0000" />
     <Project Path="Check Within 20 of 100 or 200/Check Within 20 of 100 or 200.csproj" Id="3e14d968-6fae-41bd-b75c-92da0428d265" />
+    <Project Path="Convert String to Lowercase/Convert String to Lowercase.csproj" Id="8f503049-e9fd-40c0-b2d0-757057eaf0ac" />
+    <Project Path="File Size in Bytes/File Size in Bytes.csproj" Id="6b5139ea-bf77-43aa-9a41-0083fa6326af" />
+    <Project Path="Find Longest Word in String/Find Longest Word in String.csproj" Id="17261126-6a91-43a7-9f97-df5b743bd7f9" />
+    <Project Path="Hexadecimal to Decimal/Hexadecimal to Decimal.csproj" Id="64b2591e-da07-4781-a16b-87e435b422aa" />
     <Project Path="Print Age Message/Print Age Message.csproj" Id="06d28748-3be3-417c-be02-7128fb0b5ca9" />
+    <Project Path="Print Odd Numbers 1 to 99/Print Odd Numbers 1 to 99.csproj" Id="c54859fa-4ef9-4178-95fb-63305e40cb83" />
     <Project Path="Rectangle Pattern with Number/Rectangle Pattern with Number.csproj" Id="f64bcf48-b733-4c34-a639-8ce293c4d195" />
     <Project Path="Remove Character by Index/Remove Character by Index.csproj" Id="c187703d-61c2-4b62-bca9-6e1d626e632d" />
     <Project Path="Repeat Number in Rows/Repeat Number in Rows.csproj" Id="c037c141-6da1-4754-b87a-5cc3759244d4" />
+    <Project Path="Reverse Words in Sentence/Reverse Words in Sentence.csproj" Id="fa8f1ad6-aefe-474e-85d1-cb04790a23b8" />
     <Project Path="Specified Formula with Three Numbers/Specified Formula with Three Numbers.csproj" />
+    <Project Path="Sum of Digits in Integer/Sum of Digits in Integer.csproj" Id="eccc49c7-bbc1-410a-a2f4-820f7a5243ab" />
+    <Project Path="Sum of First 500 Primes/Sum of First 500 Primes.csproj" Id="dbc3ff99-725c-45bb-834f-01e3a3f0ae1c" />
     <Project Path="Sum or Triple Sum of Integers/Sum or Triple Sum of Integers.csproj" Id="2e9d5973-1d8a-426a-b94d-db26785c5d1f" />
     <Project Path="Swap First and Last Characters/Swap First and Last Characters.csproj" Id="0a693095-61ff-4f71-b7fb-912beedebd58" />
   </Folder>
