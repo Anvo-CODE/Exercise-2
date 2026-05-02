@@ -11,6 +11,7 @@
     <Project Path="Convert String to Lowercase/Convert String to Lowercase.csproj" Id="8f503049-e9fd-40c0-b2d0-757057eaf0ac" />
     <Project Path="File Size in Bytes/File Size in Bytes.csproj" Id="6b5139ea-bf77-43aa-9a41-0083fa6326af" />
     <Project Path="Find Longest Word in String/Find Longest Word in String.csproj" Id="17261126-6a91-43a7-9f97-df5b743bd7f9" />
+    <Project Path="Four Copies of Last Four Characters/Four Copies of Last Four Characters.csproj" Id="9d43a8e5-ed72-43bd-86f5-bab8ab98ca4e" />
     <Project Path="Hexadecimal to Decimal/Hexadecimal to Decimal.csproj" Id="64b2591e-da07-4781-a16b-87e435b422aa" />
     <Project Path="Multiply Two Arrays/Multiply Two Arrays.csproj" Id="29edf8b9-0bd1-4d7a-b593-cfe2be6d556d" />
     <Project Path="Print Age Message/Print Age Message.csproj" Id="06d28748-3be3-417c-be02-7128fb0b5ca9" />
