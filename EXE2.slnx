@@ -26,4 +26,7 @@
     <Project Path="Sum or Triple Sum of Integers/Sum or Triple Sum of Integers.csproj" Id="2e9d5973-1d8a-426a-b94d-db26785c5d1f" />
     <Project Path="Swap First and Last Characters/Swap First and Last Characters.csproj" Id="0a693095-61ff-4f71-b7fb-912beedebd58" />
   </Folder>
+  <Folder Name="/Exercise 3/">
+    <Project Path="EXE3/EXE3.csproj" Id="dec51062-60cd-481b-bd91-3106ec436f09" />
+  </Folder>
 </Solution>
