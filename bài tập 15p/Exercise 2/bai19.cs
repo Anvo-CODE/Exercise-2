@@ -1,9 +1,9 @@
 ﻿using System;
-namespace Sum_of_Digits_in_Integer
+namespace bai19
 {
-    class Program
+    class Program 
     {
-        static void Main(string[] args)
+        static void Main19(string[] args)
         {
             Console.WriteLine("nhap so ");
             int a = Convert.ToInt32(Console.ReadLine());
@@ -13,10 +13,11 @@ namespace Sum_of_Digits_in_Integer
                 int b = a % 10;
                 sum += b;
                 a /= 10;
-             
+
             }
             Console.WriteLine("ket qua:" + sum);
         }
     }
-}a
+}
+
 

@@ -5,7 +5,7 @@ int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 Console.WriteLine(" nhập phép toán (+, -, *, /): ");
 String c = Console.ReadLine();
-if (c== "+")
+if (c == "+")
 {
     Console.WriteLine("kết quả: " + (a + b));
 }
@@ -83,7 +83,7 @@ Console.WriteLine($"Thể tích hình cầu: {volume:F2}");
 
 //bài 5
 Console.Write("Nhập một ký tự: ");
-    char ch = Convert.ToChar(Console.ReadLine());
+char ch = Convert.ToChar(Console.ReadLine());
 
 if ("aeiouAEIOU".IndexOf(ch) >= 0)
 {

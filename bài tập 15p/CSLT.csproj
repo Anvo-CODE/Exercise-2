@@ -6,6 +6,7 @@
     <RootNamespace>bài_tập_15p</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>bai6EX6</StartupObject>
   </PropertyGroup>
 
 </Project>
